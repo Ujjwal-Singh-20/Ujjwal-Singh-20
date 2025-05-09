@@ -24,4 +24,4 @@
 
 ---
 
-![Snake animation](https://github.com/Ujjwal-Singh-20/Ujjwal-Singh-20/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ujjwal-Singh-20/Ujjwal-Singh-20/output/github-contribution-grid-snake.svg)
