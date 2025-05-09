@@ -16,9 +16,11 @@
 
 # 📊 Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-Singh-20&show_icons=true&theme=transparent)
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Singh-20&show_icons=true&theme=transparent" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Singh-20&layout=donut-vertical&langs-count=10" alt="Top Languages">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Singh-20&layout=donut-vertical&langs-count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
