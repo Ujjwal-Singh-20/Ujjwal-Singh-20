@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Hi%20there👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Hi%20there👋&fontSize=70)
+---
+
+<div align="center">
+    <img src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY4MTU1NDgsIm5iZiI6MTc0NjgxNTI0OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA5VDE4MjcyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyNmJlM2ExNjg4NGMzYTNhMmE1ODk5NThhY2EzZjc1NGUwZmE4MTg3MDRlN2RhNjc4ZGU1ZTY4MzhjOTM2N2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R17-dBNq94e6oRkZNNlWNW8wiGUrF_ZC3HQCm20cW6c" alt="Happy roaming">
+</div>
+
 ---
 ## ✨ About Me:
 ### 🚀 Diving into the world of computers, I'm pursuing my education focusing on Data Science.
