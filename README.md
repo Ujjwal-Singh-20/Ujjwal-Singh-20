@@ -28,15 +28,6 @@
 
 ---
 
-# 📊 Github stats
-
-| <a href="https://github-readme-stats.vercel.app/api?username=Ujjwal-Singh-20&show_icons=true&theme=transparent"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Singh-20&show_icons=true&theme=transparent" alt="Ujjwal's GitHub Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Singh-20&layout=donut-vertical&langs-count=10"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Singh-20&layout=donut-vertical&langs-count=10" alt="Top Languages" /></a> |
-| ------------- | ------------- |
-
-
-
----
-
 ## 🐍 Contributions:
 
 <picture>
